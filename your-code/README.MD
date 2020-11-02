@@ -201,5 +201,5 @@ We have also seen that with a 5th component 95% of the variability would be expl
 * It would be interesting to analyze how other indexes that conform Happiness Score correlate with the 6 cultural dimensions.
 
 ## Links
-[Repository](https://github.com/mikongame/NLP-to-predict-Myers-Briggs-Personality-Type) 
+[Repository](https://github.com/mikongame/NLP-to-predict-Myers-Briggs-Personality-Type)  
 [Slides](https://view.genial.ly/5e8203367fd6910db48a4a43/presentation-statistical-analysis-on-happiness-culture-interaction)
