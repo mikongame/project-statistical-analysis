@@ -158,9 +158,6 @@ In those countries where **pleasure seek is indulged**, usually there's also a c
 They all positively correlate except `Generosity` with a negligible negative correlation with `Economy`.
 Moreover, the top 3 correlations, being correlations over 0.5, are the top 3 Happiness Score factors: `Economy`, `Family` and `Health`.
 
-##### Comments about VGC 2020 Usage % and Base Stats Mean relationship
-
-Pokémon's usage in VGC 2020 online competitions seems to be ***positively correlated*** with each Pokémon's Base Stats Mean forming a ***logarithmic growth*** so that Stats Means grow a lot without affecting much to VGC Usage %, and from 70 base stats means, usage starts increasing really fast, and it almost stops growing from 85-90 mean values.
 
 ##### Correlations of the merged and standardized dataset (Happiness Score + 6 cultural dimensions)
 **Most correlations seem to be negligible but there's still some significant ones:**
