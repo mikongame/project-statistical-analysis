@@ -13,6 +13,7 @@ MIGUEL GARCÍA MELGAR
 - [Datasets](#Datasets)
 - [Workflow](#workflow)
 - [Results](#results)
+- [Links](#links)
 
 <a name="project"></a>
 
@@ -198,3 +199,7 @@ We have also seen that with a 5th component 95% of the variability would be expl
 * There are currently 247 countries but one of our datasets had results from 111 countries and the other only considered 158 and they didn't always coincide plus there were some NaN values. We ended up with a dataset of just 57 countries' results. I shiould try to look for more complete and up-to-date data.
 
 * It would be interesting to analyze how other indexes that conform Happiness Score correlate with the 6 cultural dimensions.
+
+## Links
+[Repository](https://github.com/mikongame/NLP-to-predict-Myers-Briggs-Personality-Type) 
+[Slides](https://view.genial.ly/5e8203367fd6910db48a4a43/presentation-statistical-analysis-on-happiness-culture-interaction)
